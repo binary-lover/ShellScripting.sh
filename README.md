@@ -14,3 +14,7 @@
 |-ne/!=   | not equal to|
  
 
+**Note**
+1. -eq not work in  case of String capmarision instead use ==/=
+
+    
