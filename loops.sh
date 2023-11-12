@@ -8,7 +8,7 @@
 
 # handling files
 
-File="/home/binarylover/Downloads/Notes/bashScripting.sh/file.txt"
+# File="/home/binarylover/Downloads/Notes/bashScripting.sh/file.txt"
 
 # for name in $($File)
 # do 
