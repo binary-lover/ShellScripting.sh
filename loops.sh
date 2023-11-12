@@ -8,7 +8,7 @@
 
 # handling files
 
-# File="/home/binarylover/Downloads/Notes/bashScripting.sh/file.txt"
+File="/home/binarylover/Downloads/Notes/bashScripting.sh/file.txt"
 
 # for name in $($File)
 # do 
@@ -39,9 +39,14 @@
 
 
 # infinite loop
-while true
-do
-    echo "hey bro!"
-    sleep 0.2s
+# while true
+# do
+#     echo "hey bro!"
+#     sleep 0.2s
+# done
 
-done
+# Read files
+# while read myvar
+# do
+#     echo "Value in my file is $($myvar)"
+# done < file.txt
